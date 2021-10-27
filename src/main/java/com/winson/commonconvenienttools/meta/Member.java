@@ -14,6 +14,7 @@ public class Member {
     private Long id;
     @Excel(name = "用户名", width = 20, needMerge = true)
     private String username;
+    @Excel(name = "密码", width = 20)
     private String password;
     @Excel(name = "昵称", width = 20, needMerge = true)
     private String nickname;
