@@ -1,2 +1,6 @@
-package com.winson.commonconvenienttools.config;public class ThreadPoolConfig {
+package com.winson.commonconvenienttools.config;
+
+
+
+public class ThreadPoolConfig {
 }
